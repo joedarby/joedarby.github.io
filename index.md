@@ -36,3 +36,5 @@ As a thank you for taking part, everyone who keeps the app installed for long en
 Two people will be randomly selected to each receive a £20 Amazon voucher, funded by the university.
 
 If you don't want to be included in the prize draw, you can opt out inside the app during the sign up.
+
+![](/main.png)  ![](/survey.png)
