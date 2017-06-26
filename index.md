@@ -2,13 +2,13 @@
 
 AlcoSensing is part of master's degree research project at Queen Mary University of London.
 
-This project is looking into the effects of alcohol consumption and how these effects can be detected using mobile sensors and machine learning techniques. The app captures mobile sensor data and sends surveys to the user about their recent drinking. 
+This project is looking into the effects of alcohol consumption and how these effects can be detected using mobile sensors and machine learning techniques. The app captures mobile sensor data and sends surveys to the user about their recent drinking.
 
 We're expecting to see differences in sensor data readings for when users report that they had alcohol to drink, compared to when they didn't drink. We can use these differences to build a model to detect the effects of drinking using mobile sensors in future applications.
 
 You must be at least 18 years old to take part in the AlcoSensing study.
 
-AlcoSensing is powered by SensingKit (http://www.sensingkit.org) and ResearchStack (http://researchstack.org).
+AlcoSensing is powered by SensingKit (<http://www.sensingkit.org>) and ResearchStack (<http://researchstack.org>).
 
 ## What do you mean "mobile sensors"?
 
@@ -36,3 +36,5 @@ As a thank you for taking part, everyone who keeps the app installed for long en
 Two people will be randomly selected to each receive a £20 Amazon voucher, funded by the university.
 
 If you don't want to be included in the prize draw, you can opt out inside the app during the sign up.
+
+
