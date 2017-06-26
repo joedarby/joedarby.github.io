@@ -4,7 +4,9 @@
 
 AlcoSensing is part of master's degree research project at Queen Mary University of London.
 
-This project is looking into the effects of alcohol consumption and how these effects can be detected using mobile sensors and machine learning techniques. The app captures mobile sensor data and sends surveys to the user about their recent drinking.
+This project is looking into the effects of alcohol consumption and how these effects can be detected using mobile sensors and machine learning techniques. The app captures mobile sensor data and sends surveys to the user about their recent drinking. 
+
+We're expecting to see differences in sensor data readings for when users report that they had alcohol to drink, compared to when they didn't drink. We can use these differences to build a model to detect the effects of drinking using mobile sensors in future applications.
 
 You must be at least 18 years old to take part in the AlcoSensing study.
 
@@ -20,10 +22,10 @@ Don’t worry, we’re not interested in exactly what you do with your phone. We
 
 After AlcoSensing records some data, we’ll send you a notification asking you to answer three quick questions about any alcohol you may have consumed during the sensing period. We’ll ask if you had anything to drink, how much you had to drink, and how drunk you felt. Just answer the questions as accurately and truthfully as you can.
 
-## So what happens if I install the app?
+## OK how do I take part?
 
 It's really simple and hassle free:
-1. Download from the Play Store: https://play.google.com/store/apps/details?id=com.joedarby.alcosensing1
+1. **Download from the [Play Store](https://play.google.com/store/apps/details?id=com.joedarby.alcosensing1)**
 2. Read through the information inside the app.
 3. Sign up by providing some information about yourself (email address, age, height, weight, etc.)
 4. Leave AlcoSensing running on your phone. Every 2-3 days you'll see a notification saying "AlcoSensing is currently gathering data"
