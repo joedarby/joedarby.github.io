@@ -10,7 +10,7 @@ You must be at least 18 years old to take part in the AlcoSensing study.
 
 AlcoSensing is powered by SensingKit (<http://www.sensingkit.org>) and ResearchStack (<http://researchstack.org>).
 
-![](/survey.png){: .center-image }
+<img src="/survey.png" style="center-image">
 
 ### [Download Here](https://play.google.com/store/apps/details?id=com.joedarby.alcosensing1)
 
@@ -24,7 +24,7 @@ Don’t worry, we’re not interested in exactly what you do with your phone. We
 
 After AlcoSensing records some data, we’ll send you a notification asking you to answer three quick questions about any alcohol you may have consumed during the sensing period. We’ll ask if you had anything to drink, how much you had to drink, and how drunk you felt. Just answer the questions as accurately and truthfully as you can.
 
-![](/main.png){: .center-image }
+<img src="/main.png" style="center-image">
 
 ## OK how do I take part?
 
