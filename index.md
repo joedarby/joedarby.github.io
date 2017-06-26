@@ -12,7 +12,7 @@ AlcoSensing is powered by SensingKit (<http://www.sensingkit.org>) and ResearchS
 
 <img src="/survey.png" style="center-image">
 
-### [Download Here](https://play.google.com/store/apps/details?id=com.joedarby.alcosensing1)
+<h3 text-align="center"> <a href="https://play.google.com/store/apps/details?id=com.joedarby.alcosensing1">Download Here</a> </h3>
 
 ## What do you mean "mobile sensors"?
 
