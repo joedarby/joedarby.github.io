@@ -1,5 +1,3 @@
-# AlcoSensing
-
 ## What is AlcoSensing?
 
 AlcoSensing is part of master's degree research project at Queen Mary University of London.
